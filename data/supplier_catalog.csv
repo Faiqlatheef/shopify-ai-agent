@@ -1,0 +1,31 @@
+supplier_sku,name,category,cost_price,stock,weight_kg,length_cm,width_cm,height_cm,image_url,description,brand,shipping_cost,supplier_lead_days
+SKU001,Wireless Mouse,Electronics,5,50,0.2,10,5,3,url,Ergonomic mouse,Logi,2,3
+SKU002,USB Keyboard,Electronics,8,40,0.5,45,15,3,url,Compact keyboard,KeyPro,3,4
+SKU003,Phone Case,Accessories,2,100,0.1,15,7,1,url,Durable case,SafeTech,1,2
+SKU004,Bluetooth Speaker,Electronics,10,25,0.7,20,10,10,url,Portable speaker,BoomX,4,5
+SKU005,Laptop Stand,Office,7,30,1.2,30,25,5,url,Adjustable stand,StandPro,3,4
+SKU006,LED Desk Lamp,Home,6,35,0.8,20,10,30,url,Modern lamp,BrightCo,3,3
+SKU007,Water Bottle,Home,3,60,0.3,25,7,7,url,Reusable bottle,Hydro,2,3
+SKU008,Backpack,Travel,12,20,1.5,40,30,15,url,Travel bag,PackPro,5,6
+SKU009,Headphones,Electronics,15,18,0.6,18,15,8,url,Noise cancel,SoundMax,4,5
+SKU010,Smart Watch,Electronics,20,15,0.2,5,5,2,url,Fitness tracker,FitPro,5,5
+SKU011,T-shirt,Clothing,4,70,0.2,30,20,2,url,Cotton tee,FashionX,2,3
+SKU012,Sunglasses,Accessories,6,45,0.1,15,5,5,url,UV protection,SunPro,2,3
+SKU013,Power Bank,Electronics,9,28,0.4,15,7,3,url,Fast charging,ChargeX,3,4
+SKU014,Desk Organizer,Office,5,22,0.6,25,15,10,url,Storage box,Organix,3,4
+SKU015,Notebook,Office,2,80,0.3,20,15,1,url,Paper notebook,WriteCo,1,2
+SKU016,Pen Set,Office,1.5,90,0.1,10,5,2,url,Ink pens,WriteCo,1,2
+SKU017,Wireless Charger,Electronics,7,33,0.3,10,10,2,url,Fast wireless charge,ChargeX,3,4
+SKU018,Tablet Stand,Electronics,6,29,0.5,20,10,5,url,Adjustable stand,StandPro,3,4
+SKU019,Kitchen Knife,Home,8,26,0.7,30,5,2,url,Sharp knife,ChefPro,3,4
+SKU020,Blender,Home,15,19,2.0,30,20,20,url,Kitchen blender,BlendX,5,6
+SKU021,Hair Dryer,Home,10,21,0.9,25,10,15,url,Powerful dryer,StylePro,4,5
+SKU022,Tripod Stand,Photography,9,23,1.2,40,10,10,url,Camera tripod,PhotoPro,4,5
+SKU023,Webcam,Electronics,12,27,0.4,10,5,5,url,HD webcam,StreamX,3,4
+SKU024,Microphone,Electronics,14,24,0.6,15,10,10,url,Studio mic,SoundMax,4,5
+SKU025,Mouse Pad,Accessories,2,100,0.2,30,20,1,url,Gaming pad,GamePro,1,2
+SKU026,Gaming Chair,Furniture,50,12,10,120,60,60,url,Comfort chair,SeatPro,10,7
+SKU027,Office Chair,Furniture,40,14,8,110,55,55,url,Ergonomic chair,SeatPro,8,6
+SKU028,Coffee Mug,Home,3,75,0.3,10,10,10,url,Ceramic mug,HomeX,2,3
+SKU029,Wall Clock,Home,7,32,0.7,30,30,5,url,Modern clock,TimePro,3,4
+SKU030,Bed Sheet,Home,20,16,2.5,200,150,5,url,Cotton sheet,ComfortX,6,6

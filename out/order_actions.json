@@ -1,0 +1,27 @@
+[
+  {
+    "order_id": "ORD001",
+    "action": "fulfill",
+    "email": "Your order fulfill"
+  },
+  {
+    "order_id": "ORD002",
+    "action": "fulfill",
+    "email": "Your order fulfill"
+  },
+  {
+    "order_id": "ORD003",
+    "action": "fulfill",
+    "email": "Your order fulfill"
+  },
+  {
+    "order_id": "ORD004",
+    "action": "backorder",
+    "email": "Your order backorder"
+  },
+  {
+    "order_id": "ORD005",
+    "action": "backorder",
+    "email": "Your order backorder"
+  }
+]
